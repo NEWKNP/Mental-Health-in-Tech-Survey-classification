@@ -31,5 +31,5 @@ For example, live with poor parent in long term, people relationship etc.
 learn it, return the information, meaning or pattern that hide inside the data as model,
 and use this model solves the problem related with the data. To learn the data, Machine
 learning receives input data that can be category data or numerical data. For example
-data from patients. In this report, I use C5.0 algorithm from decision tree, one technique
-from machine learning to decide the patient need to be treated.
+data from patients. In this project, I use C5.0 algorithm from decision tree, one technique
+from machine learning to decide the patient who needs to be treated.
