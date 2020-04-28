@@ -2,15 +2,14 @@
 Data mining and machine learning final exam
 
 ## Software
- - [R studio](https://www.jetbrains.com/webstorm/)
- - **[VS code](https://code.visualstudio.com/)**
+ - [R studio](https://rstudio.com/)
  
 ## Programming skill require
  - R language
  
 ## Library
- - **stringr** and **dplyr** for preprocessing
- - **C50**, a training model
+ - _stringr_ and _dplyr_ for preprocessing
+ - _[C50](https://www.rdocumentation.org/packages/C50/versions/0.1.3)_, a training model
 
 ## Data
  - [Data and description resourse](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
@@ -27,6 +26,7 @@ tribute to the development or progression of mental disorders. Focus on the life
 ence and environmental factors as a main, Some events have chance to evoke feelings
 of loss or damage are most likely to cause a mental disorder to develop in an individual.
 For example, live with poor parent in long term, people relationship etc.
+
   Machine learning is technique to insight the among of data in the real world,
 learn it, return the information, meaning or pattern that hide inside the data as model,
 and use this model solves the problem related with the data. To learn the data, Machine
